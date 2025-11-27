@@ -5,7 +5,6 @@
 - Living in India 🇮🇳
 - Loves Technology 🖨
 - Loves to twitch around in Linux and Neovim 
-
 <!-- <div align="center" width="50%">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikprajapat21&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Ritik's GitHub Streak" /></p>
 </div>
@@ -23,7 +22,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ritikprajapat21&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
 </div> -->
 
-<br>
 <h3> Languages, Tools and Technologies 🚀 </h3>
 <table>
 	<tr>
